@@ -1,11 +1,9 @@
-# _Project name_
-change file name in Name.js, change testname.js, name in package.json, webpack/htmlplugin name.
-#### _ title_
+# _Tomagotchi_
 
-#### By _**names**_
+#### By _**Chris Yoon**_
 
 ## Description
-
+Tomagotchi application is a game console application for you and your pet. Feed your pet, play with your pet and keep your pet healthy and happy or it may die!
 
 ## Specs:
 
@@ -58,21 +56,6 @@ output: "Johnny has died of exhaustion"
 Behavior: Program will decrease sleep levels when pet is played with (play levels are increased).
 input: "Play with Johnny"
 output: N/A  **Sleep levels increase"
-
-
-
-
--create a game object (constructor) -players 
-
-creature 
--food
--play
--sleeplevels
-
-setinterval function
-
-function playwith: increases food/attention/sleep
-
 
 ## Setup/Installation Requirements 
 
